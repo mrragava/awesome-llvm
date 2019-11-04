@@ -151,7 +151,7 @@
   - [DragonEgg](https://dragonegg.llvm.org/) (partial support)
 - Python
   - [Numba](https://numba.pydata.org/) (able to translate only a subset of Python)
-  ~~- [Pyston](https://github.com/dropbox/pyston)~~(alpha state, seems to be discontinued)
+  - ~~[Pyston](https://github.com/dropbox/pyston)~~ (alpha state, seems to be discontinued)
 - [Rust](https://www.rust-lang.org)
 - [Scala](https://github.com/scala-native/scala-native)
 - [Swift](https://developer.apple.com/swift/)
