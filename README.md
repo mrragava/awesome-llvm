@@ -119,7 +119,8 @@
 - [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
 
 # Installation
-- [LLVM Debian/Ubuntu nightly packages](https://apt.llvm.org/)
+- [Debian-based systems](https://apt.llvm.org/)
+  - Debian quick install <code>bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"</code>
 - [Mac OS Homebrew Formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/llvm.rb)
 
 # LLVM frontends
