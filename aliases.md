@@ -1,6 +1,8 @@
 # this file contains the aliases used by me to get quick results of LLVM/Clang
 # to use this, add these inside shell profile files such as ~/.profile, ~/.bashrc
 
+<pre>
+
 alias d_clang='clang -E -x c  /dev/null -dM'
 alias v_clang='clang -E -x c /dev/null -v'
 alias d_clang++='clang++ -E -x c++  /dev/null -dM'
@@ -15,6 +17,6 @@ alias v_cc1_os='clang /dev/null -xc -Os - -o /dev/null -\#\#\# 2>&1 | tr " " "\n
 alias v_cc1_oz='clang /dev/null -xc -Oz - -o /dev/null -\#\#\# 2>&1 | tr " " "\n"'
 alias v_cc1_ofast='clang /dev/null -xc -Ofast - -o /dev/null -\#\#\# 2>&1 | tr " " "\n"'
 alias v_clang_llvm='clang -xc /dev/null -c -mllvm -print-all-options'
-
+</pre>
 # pass g++ to clang++
 alias g++="clang++"
