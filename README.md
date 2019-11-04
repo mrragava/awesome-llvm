@@ -1,4 +1,4 @@
-# Documentation ([REF](http://llvm.org/docs/index.html))
+# ([Documentation](http://llvm.org/docs/index.html))
 - [LLVM Language Reference Manual](http://llvm.org/docs/LangRef.html)
 - [LLVM Programmer’s Manual](http://llvm.org/docs/ProgrammersManual.html)
 - [LLVM Coding Standards](http://llvm.org/docs/CodingStandards.html)
