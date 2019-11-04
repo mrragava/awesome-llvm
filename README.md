@@ -1,9 +1,14 @@
 # Main resources
-- [LLVM](https://www.llvm.org)
+- [LLVM](https://llvm.org)
 - [Clang](https://clang.llvm.org)
 - [LLVM Blog](http://blog.llvm.org/)
 - [LLVM Developer Meetings](https://llvm.org/devmtg)
 - [LLVM bug tracker](https://bugs.llvm.org)
+- [LLVM mailing lists](http://lists.llvm.org/mailman/listinfo)
+- [LLVM Nightly Testing](https://lnt.llvm.org/)
+- [LLVM Green Lab](http://green.lab.llvm.org/green/)
+- [LLVM Buildbot](http://lab.llvm.org:8011/)
+- [LLVM code reviews](https://reviews.llvm.org/)
 
 # [Documentation](https://llvm.org/docs/index.html)
 - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
@@ -30,6 +35,7 @@
 
 # Mailing lists
   - [LLVM Weekly](https://llvmweekly.org/)
+  - 
 
 # Other Pages
 - [The Architecture of Open Source Applications - LLVM](https://www.aosabook.org/en/llvm.html)
@@ -77,27 +83,27 @@
 - [LLDB](https://lldb.llvm.org/) - The LLDB Debugger
 - [libfuzzer](https://llvm.org/docs/LibFuzzer.html) - a library for coverage-guided fuzz testing
 
-# Unofficial Tools/Framework
+# Tools & frameworks
+- [SPIRV-LLVM Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator)
 - [American fuzzy lop (AFL)](https://lcamtuf.coredump.cx/afl/) - LLVM mode for instrumentation
 - [SVF-tools](https://github.com/SVF-tools/SVF) - Pointer Analysis and Program Dependence Analysis for C and C++ Programs
 - [Infer](https://github.com/facebook/infer) - Facebook's static analysis framework; C/C++/objc is based on LLVM/Clang
 - [wllvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files; its go port [gllvm](https://github.com/SRI-CSL/gllvm)
 - [Bear](https://github.com/rizsotto/Bear) - A tool that generates a compilation database for clang tooling
 - [klee](https://github.com/klee/klee) - Symbolic Virtual Machine
-- [CppInsights](https://github.com/andreasfertig/cppinsights) ([site](https://cppinsights.io/)) - See your source code with the eyes of a compiler
 - [S2E](https://github.com/s2e) - Selective Symbolic Execution (use KLEE as symbolic executor)
 - [RetDec](https://github.com/avast-tl/retdec) - a retargetable machine-code decompiler based on LLVM
 - [capstone](https://www.capstone-engine.org/beyond_llvm.html) - Disassembler based on the MC component of the LLVM compiler infrastructure
 - [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer for c/c++/objc[++]
-- ~~[slicer](https://github.com/wujingyue/slicer) - Schedule Specialization Framework~~
-- ~~[LLBMC](https://llbmc.org/) - The Low-Level Bounded Model Checker~~
+- [slicer](https://github.com/wujingyue/slicer) - Schedule Specialization Framework~~
+- [LLBMC](https://llbmc.org/) - The Low-Level Bounded Model Checker~~
 - [whole-program-llvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files
 - [DWGrep](https://pmachata.github.io/dwgrep/) - A tool for querying Dwarf (debuginfo) graphs
 - [Emscripten](https://github.com/kripken/emscripten) - An LLVM-to-JavaScript Compiler
 - [mcsema](https://github.com/trailofbits/mcsema) - An x86 to LLVM IR decompiler
-- ~~[stack](https://github.com/xiw/stack) - A static checker for identifying unstable code~~
-- ~~[andersen](https://github.com/grievejia/andersen) - Andersen's inclusion-based pointer analysis re-implementation in LLVM~~
-- ~~[NeonGoby](https://github.com/wujingyue/neongoby) - Alias Analysis Checker~~
+- [stack](https://github.com/xiw/stack) - A static checker for identifying unstable code~~
+- [andersen](https://github.com/grievejia/andersen) - Andersen's inclusion-based pointer analysis re-implementation in LLVM~~
+- [NeonGoby](https://github.com/wujingyue/neongoby) - Alias Analysis Checker~~
 
 # Books
 - <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/0/8/0801_b04785_llvm20essentials_.jpg" width="15%"></img><a href="https://www.packtpub.com/application-development/llvm-essentials">LLVM Essentials</a>
@@ -117,7 +123,10 @@
 - [Mac OS Homebrew Formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/llvm.rb)
 
 # LLVM backed Languages
-- C/C++/ObjC/ObjC++
+- C
+- C++
+- Objective-C
+- Objective-C++
 - [Swift](https://developer.apple.com/swift/)
 - [GHC Haskell](https://www.haskell.org/ghc/)
 - [Rust](https://www.rust-lang.org)
