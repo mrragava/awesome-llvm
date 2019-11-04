@@ -160,7 +160,12 @@
   - [AMD GCN](https://en.wikipedia.org/wiki/Graphics_Core_Next)
   - [AMD TeraScale](https://en.wikipedia.org/wiki/TeraScale_(microarchitecture))
   - [ARM](https://en.wikipedia.org/wiki/ARM_architecture)
-    - ARMv6, ARMv5, ARMv4T, ARMv3, ARMv2, ARMv8-R, ARMv8-M, ARMv7-A, ARMv7-R, ARMv7E-M, ARMv7-M, ARMv6-M, ARMv8-A, ARMv8.1-A, ARMv8.2-A, ARMv8.3-A, ARMv8.4-A, ARMv8.5-A
+    - AArch32/A32 and AArch64/A64
+      - ARMv8-A, ARMv8.1-A, ARMv8.2-A, ARMv8.3-A, ARMv8.4-A, ARMv8.5-A
+    - ARM32(legacy)
+      - ARMv2, ARMv3, ARMv4T, ARMv5, ARMv6, ARMv6-M, ARMv6-M
+    - ARM32 Cortex
+      - ARMv6, ARMv5, ARMv4T, ARMv3, ARMv2
   - [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
   - [Nvidia PTX](https://docs.nvidia.com/cuda/parallel-thread-execution/) - [LLVM NVPTX documentation](https://llvm.org/docs/NVPTXUsage.html)
   - [PowerPC](https://en.wikipedia.org/wiki/PowerPC)
@@ -170,7 +175,7 @@
   - [x86](https://en.wikipedia.org/wiki/X86)
   - [x86-64](https://en.wikipedia.org/wiki/X86-64)
     - AMD64
-    - Intel x64
+    - Intel x86-64
   - [XCore](https://en.wikipedia.org/wiki/XCore)
   - [z/Architecture](https://en.wikipedia.org/wiki/Z/Architecture)
 
