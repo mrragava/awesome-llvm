@@ -1,9 +1,9 @@
 # Main resources
 - [LLVM](https://www.llvm.org)
 - [Clang](https://clang.llvm.org)
-- [LLVM Blog](https://blog.llvm.org/)
+- [LLVM Blog](http://blog.llvm.org/)
 - [LLVM Developer Meetings](https://llvm.org/devmtg)
-
+- [LLVM bug tracker](https://bugs.llvm.org)
 
 # [Documentation](https://llvm.org/docs/index.html)
 - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
@@ -28,9 +28,8 @@
 - [Writing an LLVM Backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
 - [Sanitizers](docs/sanitizers) - AddressSanitizer, MemorySanitizer, ThreadSanitizer, UndefinedBehaviorSanitizer, LeakSanitizer, etc
 
-# Mailing Lists
-  - [llvm-dev](https://lists.cs.uiuc.edu/mailman/listinfo/llvmdev)([nabble forum page](https://llvm.1065342.n5.nabble.com/LLVM-Dev-f3.html)), [llvm-weekly](https://llvmweekly.org/)
-  - [cfe-dev](https://lists.cs.uiuc.edu/mailman/listinfo/cfe-dev)
+# Mailing lists
+  - [LLVM Weekly](https://llvmweekly.org/)
 
 # Other Pages
 - [The Architecture of Open Source Applications - LLVM](https://www.aosabook.org/en/llvm.html)
@@ -101,9 +100,12 @@
 - ~~[NeonGoby](https://github.com/wujingyue/neongoby) - Alias Analysis Checker~~
 
 # Books
-- [Getting Started with LLVM Core Libraries](https://www.amazon.com/Getting-Started-LLVM-Core-Libraries/dp/1782166920), also available on [ACM library](https://dl.acm.org/citation.cfm?id=2692607)
-- [LLVM Cookbook](https://www.amazon.com/LLVM-Cookbook-Mayur-Pandey/dp/178528598X)
-- [LLVM Essentials](https://www.amazon.com/LLVM-Essentials-Suyog-Sarda/dp/1785280805/)
+    - ![alt text](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448683351l/28000392._SX318_.jpg "Logo Title Text 1")[LLVM Essentials: Become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler](https://www.goodreads.com/book/show/28000392-llvm-essentials)
+    - [Getting Started with LLVM Core Libraries](https://www.goodreads.com/book/show/23139206-getting-started-with-llvm-core-libraries)
+    - [LLVM Cookbook](https://www.goodreads.com/book/show/25801539-llvm-cookbook)
+    - [Advanced Compiler Design with LLVM](https://www.goodreads.com/book/show/35187548-advanced-compiler-design-with-llvm)
+    - [Learn LLVM Core Libraries - Second Edition: Get to grips with LLVM essentials and use the core libraries to build advanced tools](https://www.goodreads.com/book/show/47493941-learn-llvm-core-libraries---second-edition)
+    - [Getting Started with LLVM Core Libraries](https://www.goodreads.com/book/show/38223871-getting-started-with-llvm-core-libraries)
 
 # Tutorials
 - [llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - Examples of LLVM and Clang written by Dr. [Eli Bendersky](https://eli.thegreenplace.net/)
