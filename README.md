@@ -6,8 +6,8 @@
 - [LLVM bug tracker](https://bugs.llvm.org)
 - [LLVM mailing lists](http://lists.llvm.org/mailman/listinfo)
 - [LLVM Nightly Testing](https://lnt.llvm.org/)
-- [LLVM Green Lab](http://green.lab.llvm.org/green/)
-- [LLVM Buildbot](http://lab.llvm.org:8011/)
+- [LLVM green lab](http://green.lab.llvm.org/green/)
+- [LLVM buildbot](http://lab.llvm.org:8011/)
 - [LLVM code reviews](https://reviews.llvm.org/)
 
 # [Documentation](https://llvm.org/docs/index.html)
@@ -124,21 +124,55 @@
 
 # LLVM frontends
 - Ada
+  - [DragonEgg](https://dragonegg.llvm.org/)
 - C
+  - [DragonEgg](https://dragonegg.llvm.org/)
 - C++
+  - [DragonEgg](https://dragonegg.llvm.org/)
 - D
 - Delphi
 - Fortran
-- [Go](https://github.com/go-llvm/llgo)
+  - [f18](https://github.com/flang-compiler/f18)
+  - [flang](https://github.com/flang-compiler/flang)
+  - [DragonEgg](https://dragonegg.llvm.org/)
+- Go
+  - [llgo](https://github.com/go-llvm/llgo)
+  - [DragonEgg](https://dragonegg.llvm.org/) (partial support)
 - Haskell
-- Java - through [JLang](https://github.com/polyglot-compiler/JLang)
+  - [llvm-hs](https://github.com/llvm-hs/llvm-hs)
+- Java
+  - [JLang](https://github.com/polyglot-compiler/JLang)
+  - [DragonEgg](https://dragonegg.llvm.org/) (partial support)
 - [Julia](https://julialang.org/)
 - [ldc](https://github.com/ldc-developers/ldc)
 - Objective-C
+  - [DragonEgg](https://dragonegg.llvm.org/) (partial support)
 - Objective-C++
+  - [DragonEgg](https://dragonegg.llvm.org/) (partial support)
+- Python
+  - [Numba](https://numba.pydata.org/) (able to translate only a subset of Python)
+  ~~- [Pyston](https://github.com/dropbox/pyston)~~(alpha state, seems to be discontinued)
 - [Rust](https://www.rust-lang.org)
 - [Scala](https://github.com/scala-native/scala-native)
 - [Swift](https://developer.apple.com/swift/)
+
+# LLVM backends
+  - [AMD GCN](https://en.wikipedia.org/wiki/Graphics_Core_Next)
+  - [AMD TeraScale](https://en.wikipedia.org/wiki/TeraScale_(microarchitecture))
+  - [ARM](https://en.wikipedia.org/wiki/ARM_architecture)
+    - ARMv6, ARMv5, ARMv4T, ARMv3, ARMv2, ARMv8-R, ARMv8-M, ARMv7-A, ARMv7-R, ARMv7E-M, ARMv7-M, ARMv6-M, ARMv8-A, ARMv8.1-A, ARMv8.2-A, ARMv8.3-A, ARMv8.4-A, ARMv8.5-A
+  - [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
+  - [Nvidia PTX](https://docs.nvidia.com/cuda/parallel-thread-execution/) - [LLVM NVPTX documentation](https://llvm.org/docs/NVPTXUsage.html)
+  - [PowerPC](https://en.wikipedia.org/wiki/PowerPC)
+  - [Qualcomm Hexagon](https://en.wikipedia.org/wiki/Qualcomm_Hexagon)
+  - [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
+  - [SPARC](https://en.wikipedia.org/wiki/SPARC)
+  - [x86](https://en.wikipedia.org/wiki/X86)
+  - [x86-64](https://en.wikipedia.org/wiki/X86-64)
+    - AMD64
+    - Intel x64
+  - [XCore](https://en.wikipedia.org/wiki/XCore)
+  - [z/Architecture](https://en.wikipedia.org/wiki/Z/Architecture)
 
 # Bindings
 - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
