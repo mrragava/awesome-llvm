@@ -84,7 +84,8 @@
 - [libfuzzer](https://llvm.org/docs/LibFuzzer.html) - a library for coverage-guided fuzz testing
 
 # Tools & frameworks
-- [SPIRV-LLVM Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator)
+- [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for C/C++/Objective-C(++)
+- [SPIRV-LLVM Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator) - a library and tool for translation between LLVM IR and [SPIR-V](https://www.khronos.org/registry/spir-v/)
 - [American fuzzy lop (AFL)](https://lcamtuf.coredump.cx/afl/) - LLVM mode for instrumentation
 - [SVF-tools](https://github.com/SVF-tools/SVF) - Pointer Analysis and Program Dependence Analysis for C and C++ Programs
 - [Infer](https://github.com/facebook/infer) - Facebook's static analysis framework; C/C++/objc is based on LLVM/Clang
@@ -94,16 +95,15 @@
 - [S2E](https://github.com/s2e) - Selective Symbolic Execution (use KLEE as symbolic executor)
 - [RetDec](https://github.com/avast-tl/retdec) - a retargetable machine-code decompiler based on LLVM
 - [capstone](https://www.capstone-engine.org/beyond_llvm.html) - Disassembler based on the MC component of the LLVM compiler infrastructure
-- [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for C/C++/Objective-C[++] with integration for Emacs based on clang
-- [slicer](https://github.com/wujingyue/slicer) - Schedule Specialization Framework~~
-- [LLBMC](https://llbmc.org/) - The Low-Level Bounded Model Checker~~
+- [slicer](https://github.com/wujingyue/slicer) - Schedule Specialization Framework
+- [LLBMC](https://llbmc.org/) - The Low-Level Bounded Model Checker
 - [whole-program-llvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files
 - [DWGrep](https://pmachata.github.io/dwgrep/) - A tool for querying Dwarf (debuginfo) graphs
 - [Emscripten](https://github.com/kripken/emscripten) - An LLVM-to-JavaScript Compiler
 - [mcsema](https://github.com/trailofbits/mcsema) - An x86 to LLVM IR decompiler
-- [stack](https://github.com/xiw/stack) - A static checker for identifying unstable code~~
-- [andersen](https://github.com/grievejia/andersen) - Andersen's inclusion-based pointer analysis re-implementation in LLVM~~
-- [NeonGoby](https://github.com/wujingyue/neongoby) - Alias Analysis Checker~~
+- [stack](https://github.com/xiw/stack) - A static checker for identifying unstable code
+- [andersen](https://github.com/grievejia/andersen) - Andersen's inclusion-based pointer analysis re-implementation in LLVM
+- [NeonGoby](https://github.com/wujingyue/neongoby) - Alias Analysis Checker
 
 # Books
 - <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/0/8/0801_b04785_llvm20essentials_.jpg" width="15%"></img><a href="https://www.packtpub.com/application-development/llvm-essentials">LLVM Essentials</a>
