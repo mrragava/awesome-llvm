@@ -154,9 +154,11 @@
   - ~~[Pyston](https://github.com/dropbox/pyston)~~ (alpha state, seems to be discontinued)
 - [Rust](https://www.rust-lang.org)
 - [Scala](https://github.com/scala-native/scala-native)
+- Scheme
 - [Swift](https://developer.apple.com/swift/)
 
 # LLVM backends
+  - Alpha
   - [AMD GCN](https://en.wikipedia.org/wiki/Graphics_Core_Next)
   - [AMD TeraScale](https://en.wikipedia.org/wiki/TeraScale_(microarchitecture))
   - [ARM](https://en.wikipedia.org/wiki/ARM_architecture)
@@ -166,12 +168,17 @@
       - ARMv2, ARMv3, ARMv4T, ARMv5, ARMv6, ARMv6-M, ARMv6-M
     - ARM32 Cortex
       - ARMv6, ARMv5, ARMv4T, ARMv3, ARMv2
+  - CellSPU
   - [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
+  - MSP430
   - [Nvidia PTX](https://docs.nvidia.com/cuda/parallel-thread-execution/) - [LLVM NVPTX documentation](https://llvm.org/docs/NVPTXUsage.html)
   - [PowerPC](https://en.wikipedia.org/wiki/PowerPC)
+    - PowerPC64
   - [Qualcomm Hexagon](https://en.wikipedia.org/wiki/Qualcomm_Hexagon)
   - [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
   - [SPARC](https://en.wikipedia.org/wiki/SPARC)
+  - Thumb
+  - WebAssembly
   - [x86](https://en.wikipedia.org/wiki/X86)
   - [x86-64](https://en.wikipedia.org/wiki/X86-64)
     - AMD64
