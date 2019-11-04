@@ -187,4 +187,3 @@
 - Rust
   - [llvm](https://github.com/gsingh93/llvm) - Safe LLVM bindings for Rust
   - [llvm-sys](https://gitlab.com/taricorp/llvm-sys.rs) - Rust bindings to LLVM's C API
-  - 
