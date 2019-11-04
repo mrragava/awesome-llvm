@@ -94,7 +94,7 @@
 - [S2E](https://github.com/s2e) - Selective Symbolic Execution (use KLEE as symbolic executor)
 - [RetDec](https://github.com/avast-tl/retdec) - a retargetable machine-code decompiler based on LLVM
 - [capstone](https://www.capstone-engine.org/beyond_llvm.html) - Disassembler based on the MC component of the LLVM compiler infrastructure
-- [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer for c/c++/objc[++]
+- [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for C/C++/Objective-C[++] with integration for Emacs based on clang
 - [slicer](https://github.com/wujingyue/slicer) - Schedule Specialization Framework~~
 - [LLBMC](https://llbmc.org/) - The Low-Level Bounded Model Checker~~
 - [whole-program-llvm](https://github.com/travitch/whole-program-llvm) - A wrapper script to build whole-program LLVM bitcode files
@@ -122,7 +122,7 @@
 - [LLVM Debian/Ubuntu nightly packages](https://apt.llvm.org/)
 - [Mac OS Homebrew Formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/llvm.rb)
 
-# LLVM backed Languages
+# LLVM backend languages
 - C
 - C++
 - Objective-C
@@ -131,8 +131,8 @@
 - [GHC Haskell](https://www.haskell.org/ghc/)
 - [Rust](https://www.rust-lang.org)
 - [Julia](https://julialang.org/)
-- [go-llvm](https://github.com/go-llvm/llgo)
-- [scala-native](https://github.com/scala-native/scala-native)
+- [Go](https://github.com/go-llvm/llgo)
+- [Scala](https://github.com/scala-native/scala-native)
 - [ldc](https://github.com/ldc-developers/ldc)
 
 # Bindings
