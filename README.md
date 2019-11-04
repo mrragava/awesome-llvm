@@ -162,7 +162,7 @@
   - [AMD GCN](https://en.wikipedia.org/wiki/Graphics_Core_Next)
   - [AMD TeraScale](https://en.wikipedia.org/wiki/TeraScale_(microarchitecture))
   - [ARM](https://en.wikipedia.org/wiki/ARM_architecture)
-    - AArch32/A32 and AArch64/A64, ARM32(legacy), ARM32 Cortex
+    - AArch32/A32, AArch64/A64, ARM32 legacy, ARM32 Cortex
   - CellSPU
   - [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)
   - MSP430
@@ -182,5 +182,9 @@
   - [z/Architecture](https://en.wikipedia.org/wiki/Z/Architecture)
 
 # Bindings
-- [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
-- [LLVM Rust crates](https://crates.io/search?q=llvm)
+- Python
+  - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
+- Rust
+  - [llvm](https://github.com/gsingh93/llvm) - Safe LLVM bindings for Rust
+  - [llvm-sys](https://gitlab.com/taricorp/llvm-sys.rs) - Rust bindings to LLVM's C API
+  - 
