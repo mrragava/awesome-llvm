@@ -1,3 +1,8 @@
+- [Clang](https://clang.llvm.org)
+- [LLVM Blog](https://blog.llvm.org/)
+- [LLVM Developer Meetings](https://llvm.org/devmtg)
+
+
 # [Documentation](https://llvm.org/docs/index.html)
 - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
 - [LLVM Programmer’s Manual](https://llvm.org/docs/ProgrammersManual.html)
@@ -21,13 +26,7 @@
 - [Writing an LLVM Backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
 - [Sanitizers](docs/sanitizers) - AddressSanitizer, MemorySanitizer, ThreadSanitizer, UndefinedBehaviorSanitizer, LeakSanitizer, etc
 
-
-# Official Pages
-- https://llvm.org/
-- <a href="https://clang.llvm.org/">Clang</a>
-- https://blog.llvm.org/
-- https://llvm.org/devmtg/
-- Mailing List
+# Mailing Lists
   - [llvm-dev](https://lists.cs.uiuc.edu/mailman/listinfo/llvmdev)([nabble forum page](https://llvm.1065342.n5.nabble.com/LLVM-Dev-f3.html)), [llvm-weekly](https://llvmweekly.org/)
   - [cfe-dev](https://lists.cs.uiuc.edu/mailman/listinfo/cfe-dev)
 
