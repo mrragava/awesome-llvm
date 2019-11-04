@@ -122,18 +122,23 @@
 - [LLVM Debian/Ubuntu nightly packages](https://apt.llvm.org/)
 - [Mac OS Homebrew Formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/llvm.rb)
 
-# LLVM backend languages
+# LLVM frontends
+- Ada
 - C
 - C++
+- D
+- Delphi
+- Fortran
+- [Go](https://github.com/go-llvm/llgo)
+- Haskell
+- Java - through [JLang](https://github.com/polyglot-compiler/JLang)
+- [Julia](https://julialang.org/)
+- [ldc](https://github.com/ldc-developers/ldc)
 - Objective-C
 - Objective-C++
-- [Swift](https://developer.apple.com/swift/)
-- [GHC Haskell](https://www.haskell.org/ghc/)
 - [Rust](https://www.rust-lang.org)
-- [Julia](https://julialang.org/)
-- [Go](https://github.com/go-llvm/llgo)
 - [Scala](https://github.com/scala-native/scala-native)
-- [ldc](https://github.com/ldc-developers/ldc)
+- [Swift](https://developer.apple.com/swift/)
 
 # Bindings
 - [llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
