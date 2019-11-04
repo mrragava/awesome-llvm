@@ -110,6 +110,7 @@
 - [srg-llvm-pass-tutorial](https://github.com/delcypher/srg-llvm-pass-tutorial) - A tutorial about llvm passes from [Software reliability group](https://srg.doc.ic.ac.uk/)
 - [clang-llvm-tutorial](https://github.com/lijiansong/clang-llvm-tutorial) - clang & llvm examples
 - [Get Started with the LLVM C API](https://pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html)
+- [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
 
 # Installation
 - [LLVM Debian/Ubuntu nightly packages](https://apt.llvm.org/)
