@@ -121,7 +121,7 @@
 # Installation
 - [Debian-based systems](https://apt.llvm.org/)
   - Debian quick install <code><pre>bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"</pre></code>
-- [Mac OS Homebrew Formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/llvm.rb)
+- [Mac OS Homebrew Formula](https://formulae.brew.sh/formula/llvm)
 
 # LLVM frontends
 - Ada
