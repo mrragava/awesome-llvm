@@ -100,6 +100,10 @@
 - ~~[NeonGoby](https://github.com/wujingyue/neongoby) - Alias Analysis Checker~~
 
 # Books
+- <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/0/8/0801_b04785_llvm20essentials_.jpg" width="15%"></img><a href="https://www.packtpub.com/application-development/llvm-essentials">LLVM Essentials</a>
+- <img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/5/9/5981os_llvm20cookbook.jpg" width="15%">/img><a href="https://www.packtpub.com/application-development/llvm-cookbook">LLVM Cookbook</a>
+- <img src="https://images-na.ssl-images-amazon.com/images/I/81N80UaepKL.jpg" width="15%"></img><a href="https://www.amazon.com/Learn-LLVM-Core-Libraries-essentials/dp/1789136148">Learn LLVM Core Libraries - Second Edition</a>
+
 
 # Tutorials
 - [llvm-clang-samples](https://github.com/eliben/llvm-clang-samples) - Examples of LLVM and Clang written by Dr. [Eli Bendersky](https://eli.thegreenplace.net/)
