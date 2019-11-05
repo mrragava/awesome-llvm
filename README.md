@@ -118,8 +118,12 @@
 - [Get Started with the LLVM C API](https://pauladamsmith.com/blog/2015/01/how-to-get-started-with-llvm-c-api.html)
 - [LLVM for Grad Students](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
 
+# Code samples and tutorials
+- [LLVM Playground](https://github.com/modocache/LLVMPlayground)
+
+
 # Installation
-- [Debian-based systems](https://apt.llvm.org/)
+- [Debian-based systems](https://apt.llvm.org/) - Including Ubuntu, Kali, etc
   - Debian quick install <code><pre>bash -c "$(wget -O - https://apt.llvm.org/llvm.sh)"</pre></code>
 - [Mac OS Homebrew Formula](https://formulae.brew.sh/formula/llvm)
 
