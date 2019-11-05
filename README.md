@@ -85,6 +85,7 @@
 # Tools & frameworks
 - [rtags](https://github.com/Andersbakken/rtags) - A client/server indexer for C/C++/Objective-C(++)
 - [SPIRV-LLVM Translator](https://github.com/KhronosGroup/SPIRV-LLVM-Translator) - a library and tool for translation between LLVM IR and [SPIR-V](https://www.khronos.org/registry/spir-v/)
+- [llvm-abi](https://github.com/scrossuk/llvm-abi) - Library for generating ABI-compliant LLVM IR
 - [American fuzzy lop (AFL)](https://lcamtuf.coredump.cx/afl/) - LLVM mode for instrumentation
 - [SVF-tools](https://github.com/SVF-tools/SVF) - Pointer Analysis and Program Dependence Analysis for C and C++ Programs
 - [Infer](https://github.com/facebook/infer) - Facebook's static analysis framework; C/C++/objc is based on LLVM/Clang
