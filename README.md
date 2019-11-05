@@ -1,6 +1,5 @@
 # Main resources
 - [LLVM](https://llvm.org)
-- [Clang](https://clang.llvm.org)
 - [LLVM blog](http://blog.llvm.org)
 - [LLVM developer meetings](https://llvm.org/devmtg)
 - [LLVM bug tracker](https://bugs.llvm.org)
@@ -131,8 +130,10 @@
 - Ada
   - [DragonEgg](https://dragonegg.llvm.org/)
 - C
+  - Clang
   - [DragonEgg](https://dragonegg.llvm.org/)
 - C++
+  - Clang
   - [DragonEgg](https://dragonegg.llvm.org/)
 - D
 - Delphi
@@ -158,9 +159,10 @@
   - [Numba](https://numba.pydata.org/) (able to translate only a subset of Python)
   - ~~[Pyston](https://github.com/dropbox/pyston)~~ (alpha state, seems to be discontinued)
 - [Rust](https://www.rust-lang.org)
-- [Scala](https://github.com/scala-native/scala-native)
+- Scala
+  - [scala-native](https://github.com/scala-native/scala-native)
 - Scheme
-- [Swift](https://developer.apple.com/swift/)
+- [Swift](https://developer.apple.com/swift)
 
 # LLVM backends
   - Alpha
